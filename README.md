@@ -3,10 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=dilu20035&base=900&style=flat-square&color=brightgreen" alt="views"/>
 </div>
 
-Hi! My name is Jilshad M 😄
+Hi! there 😄
 ========================================================================================================================================
 
-🌍  I am a MEARN Stack Developer based in Kerala, India.
+🌍  Hi, I'm Jilshad M. A passionate MEARN STACK Developer based in Kerala, India. 
 <br/>
 
 ### Skills
